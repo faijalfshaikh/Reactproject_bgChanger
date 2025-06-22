@@ -1,7 +1,7 @@
 function App() {
 
-  return <div>
-    
+  return <div className="fixed flex w-full h-screen flex-wrap" style={{backgroundColor:"green"}}>
+
   </div>
 }
 
