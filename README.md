@@ -1,5 +1,9 @@
 # Reactproject_bgChanger
+The default color is set to Olive by using useState hook from React Library
+
 This is the React project which lists various buttons which can be changed accordingly clicking on resspective color buttons
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
